@@ -1,3 +1,27 @@
+# Share Me 
+A simple social media image sharing app
+
+**Link to project:** [(https://sharemeapp1.netlify.app/login)/](https://sharemeapp1.netlify.app/login)
+
+[dd27b40d-7a8f-441b-8fdb-8f754c1943d2.webm](https://user-images.githubusercontent.com/64934558/206019059-5dd05521-1d98-4649-8377-554645d52e3f.webm)
+
+
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript, Tailwind, Sanity, React 
+
+A simple social media image sharing app using CRUD / MVC Structure 
+
+
+## Lessons Learned:
+I'm excited to learn to learn React & Sanity.io with this project. 
+React.js is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications, as it is optimal for fetching rapidly changing data that needs to be recorded.
+
+sanity.io is an open-source platform that helps developers build better software faster with an integrated toolset that includes a content management system (CMS), an API, and collaboration tools. The company was founded in 2015 by two former employees of Google who saw the need for a more efficient way to develop software applications. 
+The combination of React and sanity provides developers with everything they need to build amazing user experiences quickly and efficiently."""
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
