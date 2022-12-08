@@ -14,7 +14,7 @@ A simple social media image sharing app using CRUD / MVC Structure
 
 
 ## Lessons Learned:
-I'm excited to learn to learn React & Sanity.io with this project. 
+I'm excited to learn React & Sanity.io with this project. 
 React.js is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications, as it is optimal for fetching rapidly changing data that needs to be recorded.
 
 sanity.io is an open-source platform that helps developers build better software faster with an integrated toolset that includes a content management system (CMS), an API, and collaboration tools. The company was founded in 2015 by two former employees of Google who saw the need for a more efficient way to develop software applications. 
